@@ -1,7 +1,7 @@
 # HR Analytics: Employee Attrition Study
 📌 Project Overview
 Image:
-![image_alt](powerBi image.png)
+![image alt](powerBi image.png)
 Employee attrition is a critical challenge for organizations as it affects productivity, increases recruitment costs, and impacts workforce stability. This project focuses on analyzing employee attrition using data-driven techniques and interactive visualizations. The dashboard helps HR teams understand attrition patterns and make informed decisions to improve employee retention.
 
 🎯 Objectives
